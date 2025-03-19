@@ -84,7 +84,7 @@ uvicorn backend.main:app --reload
 
 ✅ API Docs available at: http://127.0.0.1:8000/docs
 
-###6️⃣ Start Streamlit Frontend
+### 6️⃣ Start Streamlit Frontend
 
 ```bash
 cd frontend
