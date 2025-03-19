@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+pytesseract
+pdfplumber
+opencv-python
+matplotlib
+seaborn
+streamlit
+pillow
+ollama
+python-multipart
+docx
