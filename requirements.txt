@@ -1,13 +1,22 @@
+# FastAPI & Server
 fastapi
 uvicorn
+
+# File Processing
 pandas
-pytesseract
 pdfplumber
+pytesseract
 opencv-python
+python-docx  # ✅ Corrected from 'docx' (the actual package name is 'python-docx')
+python-multipart  # Required for file uploads in FastAPI
+
+# Machine Learning & OCR
+pillow  # Required for image processing
+ollama  # For DeepSeek-R1 LLM API
+
+# Visualization
 matplotlib
 seaborn
+
+# Streamlit UI
 streamlit
-pillow
-ollama
-python-multipart
-docx
