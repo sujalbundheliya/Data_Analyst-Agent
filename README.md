@@ -44,7 +44,7 @@ Data-Analyst-Agent
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/sujalbundheliya/Data_Analyst-Agent.git
-cd Data-Analyst-Agent
+cd Data_Analyst-Agent
 ```
 
 ### 2️⃣ Create a Virtual Environment
